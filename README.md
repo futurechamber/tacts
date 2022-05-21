@@ -3,6 +3,9 @@
 # TRANSFORMATION COST TIME-SERIES V4.3
 Çelik Özdeş 2021 (but some code is borrowed)
 
+Article : https://rdcu.be/cN2Tq
+
+
 #  V4+ FEATURES:
 - Overlapping windows
 - Multivariate TS support
@@ -20,6 +23,8 @@ TACTS.ipynb is a jupyter notebook file that demonstrates how to use this library
 
 ## Authors and acknowledgment
 Pieces of code borrowed from Deniz Eroğlu and Norbert Marwan.
+
+
 
 
 
